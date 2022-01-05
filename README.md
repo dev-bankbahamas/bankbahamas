@@ -17,5 +17,7 @@ History
 - V2: Current beta
 
 
-This reposity MUST stay PRIVATE and acces restricted to 'dev-bankbahamas' account. 
+This reposity MUST stay PRIVATE and acces restricted to 'dev-bankbahamas' account.  
+
+
 ;) Trust noone. Security first.
