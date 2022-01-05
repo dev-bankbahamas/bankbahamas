@@ -15,3 +15,7 @@ History
 - V1.0.4: Fixed Log4J vuln. Current Prod version
 
 - V2: Current beta
+
+
+This reposity MUST stay PRIVATE and acces restricted to 'dev-bankbahamas' account. 
+;) Trust noone. Security first.
